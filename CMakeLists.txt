@@ -1,4 +1,4 @@
-set(LIBRARY_NAME aim_trainer)
+set(LIBRARY_NAME implot)
 
 file(GLOB SOURCES *.cpp)
 
